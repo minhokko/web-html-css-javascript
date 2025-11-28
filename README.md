@@ -37,13 +37,13 @@ Este projeto foi desenvolvido somente para fins de estudo, praticando:
 
 ## 📸 Prévia
 ### 🔥 Lamborghini
-<img src="lambur.png" width="90%">
+![Prévia do site](lambur.png)
 
 ### ❤️ Ferrari
-<img src="ferrari.png" width="90%">
+![Prévia do site](ferrari.png)
 
 ### ⚡ Porsche 911 Turbo
-<img src="turbo.png" width="90%">
+![Prévia do site](turbo.png)
 
 
 
